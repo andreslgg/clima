@@ -64,6 +64,11 @@ main {
   border-radius: 16px;
   padding: 15px 25px;
   box-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+  max-width: 500px;
+  
 }
 
 .location-box .location {
@@ -103,6 +108,7 @@ main {
   text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
   text-align: center;
   box-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+  width: auto;
 }
 
 .weather-box .weather {
@@ -111,6 +117,7 @@ main {
   font-size: 48px;
   font-weight: 700;
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
+  
 }
 .weather-box .description {
   color: #FFF;
