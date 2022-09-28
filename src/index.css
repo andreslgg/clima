@@ -96,13 +96,13 @@ main {
   position: relative;
   display: inline-block;
   margin: 30px auto;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(27, 27, 27, 0.2);
   border-radius: 16px;
   width: 60%;
   padding: 15px 25px;
 
   color: #FFF;
-  font-size:7vw;
+  font-size:50px;
   font-weight: 900;
 
   text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
@@ -119,6 +119,15 @@ main {
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
   
 }
+
+.weather-box .feels-like {
+  color: #FFF;
+  font-size: 32px;
+  font-weight: 500;
+  text-align: center;
+  text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
+}
+
 .weather-box .description {
   color: #FFF;
   font-size: 32px;
